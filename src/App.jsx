@@ -23,7 +23,6 @@ const App = () => {
       item.isbn?.toLowerCase().includes(searchTerm) ||
       item.category?.toLowerCase().includes(searchTerm) ||
       item.volume?.toLowerCase().includes(searchTerm) ||
-      item.isbn?.toLowerCase().includes(searchTerm) ||
       item.price?.toLowerCase().includes(searchTerm) ||
       item.purchase_method?.toLowerCase().includes(searchTerm) ||
       item.year?.toLowerCase().includes(searchTerm)
@@ -31,13 +30,13 @@ const App = () => {
   });
 
   return (
-    <div>
+    <div className="p-4">
       <h1 className="text-center mt-4 text-3xl mb-4 font-bold">Library Book</h1>
-      <label className="input input-bordered flex items-center gap-2">
+      <label className="input input-bordered flex items-center gap-2 mb-4">
         <input
           onChange={(e) => setSearch(e.target.value)}
           type="text"
-          className="grow"
+          className="grow p-2 border rounded-md"
           placeholder="Search"
         />
         <svg
@@ -54,38 +53,24 @@ const App = () => {
         </svg>
       </label>
 
-      <table className="table">
-        <thead>
-          <tr>
-            <th>No</th>
-            <th>পুস্তকের নাম</th>
-            <th>লেখক/সম্পাদক</th>
-            <th>প্রকাশক/পাবলিসার</th>
-            <th>Self No</th>
-            <th>ভলিউম/সংখ্যা</th>
-            <th>ISBN</th>
-            <th>COST</th>
-            <th>SOURCE</th>
-            <th>SERIES</th>
-          </tr>
-        </thead>
-        <tbody>
-          {filteredBooks.map((book, index) => (
-            <tr key={book._id}>
-              <th>{index + 1}</th>
-              <td>{book.book_title}</td>
-              <td>{book.author}</td>
-              <td>{book.publisher}</td>
-              <td>{book.category}</td>
-              <td>{book.volume}</td>
-              <td>{book.isbn}</td>
-              <td>{book.price}</td>
-              <td>{book.purchase_method}</td>
-              <td>{book.year}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {filteredBooks.map((book, index) => (
+          <div
+            key={book._id}
+            className="p-4 border rounded-lg shadow-md bg-white"
+          >
+            <h2 className="text-xl font-bold">{index + 1}. {book.book_title}</h2>
+            <p><strong>Author:</strong> {book?.author}</p>
+            <p><strong>Publisher:</strong> {book.publisher}</p>
+            <p><strong>Self No:</strong> {book.category}</p>
+            <p><strong>Volume:</strong> {book.volume}</p>
+            <p><strong>ISBN:</strong> {book.isbn}</p>
+            <p><strong>Cost:</strong> {book.price}</p>
+            <p><strong>Source:</strong> {book.purchase_method}</p>
+            <p><strong>Series:</strong> {book?.year}</p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };
