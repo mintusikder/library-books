@@ -17,15 +17,15 @@ const App = () => {
     const searchTerm = search.toLowerCase();
     return (
       searchTerm === "" ||
-      item.book_title?.toLowerCase().includes(searchTerm) ||
-      item.author?.toLowerCase().includes(searchTerm) ||
-      item.publisher?.toLowerCase().includes(searchTerm) ||
-      item.isbn?.toLowerCase().includes(searchTerm) ||
-      item.category?.toLowerCase().includes(searchTerm) ||
-      item.volume?.toLowerCase().includes(searchTerm) ||
-      item.price?.toLowerCase().includes(searchTerm) ||
-      item.purchase_method?.toLowerCase().includes(searchTerm) ||
-      item.year?.toLowerCase().includes(searchTerm)
+      (typeof item.book_title === "string" && item.book_title.toLowerCase().includes(searchTerm)) ||
+      (typeof item.author === "string" && item.author.toLowerCase().includes(searchTerm)) ||
+      (typeof item.publisher === "string" && item.publisher.toLowerCase().includes(searchTerm)) ||
+      (typeof item.isbn === "string" && item.isbn.toLowerCase().includes(searchTerm)) ||
+      (typeof item.category === "string" && item.category.toLowerCase().includes(searchTerm)) ||
+      (typeof item.volume === "string" && item.volume.toLowerCase().includes(searchTerm)) ||
+      (typeof item.price === "string" && item.price.toLowerCase().includes(searchTerm)) ||
+      (typeof item.purchase_method === "string" && item.purchase_method.toLowerCase().includes(searchTerm)) ||
+      (typeof item.year === "string" && item.year.toLowerCase().includes(searchTerm))
     );
   });
 
