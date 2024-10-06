@@ -6320,5 +6320,306 @@
   "volume": 2,
   "price": "১০০",
   "year": ""
+},
+{
+  "_id": "571",
+  "book_title": "ঢাকা বিশ্ববিদ্যালয়ের সংস্কৃত বিভাগ গৌরবের শতবর্ষ",
+  "author": "অধ্যাপক ড. নারায়লচন্দ্র বিশ্বাস",
+  "publisher": "সংস্কৃত বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G5",
+  "volume": 2,
+  "price": "৩৫০",
+  "year": "২০২২"
+},
+{
+  "_id": "572",
+  "book_title": "বিদেশীদের সংস্কৃত ও বাংলা ভাষাচর্চা",
+  "author": "মোহাম্মদ আব্দুল হাই",
+  "publisher": "সংস্কৃত বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G5,G11",
+  "volume": 3,
+  "price": "৩৫০",
+  "year": "২০০৮"
+},
+{
+  "_id": "573",
+  "book_title": "PERSPECTIVES IN SOCIAL SCIENCE (VOL-5,6,7)",
+  "author": "SYED GIASUDDIN AHMED",
+  "publisher": "CENTRE FOR ADVANCED RESEARCH IN SOCIAL SCIENCE , UNIVERSITY OF DHAKA",
+  "category": "G5,G6",
+  "volume": 4,
+  "price": "",
+  "year": ""
+},
+{
+  "_id": "574",
+  "book_title": "THE ANAPANASATI SUTTA",
+  "author": "VEN. U VIMALARAMSI",
+  "publisher": "THE CORPORATE BODY OF THE BUDDHA EDUCATIONAL FOUNDATION",
+  "category": "G5",
+  "volume": 2,
+  "price": "",
+  "year": ""
+},
+{
+  "_id": "575",
+  "book_title": "শিক্ষক সমিতি সমাচার",
+  "author": "ড. মোঃ আখতারুজ্জামান",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয় শিক্ষক সমিতি",
+  "category": "G5",
+  "volume": 2,
+  "price": "",
+  "year": ""
+},
+{
+  "_id": "576",
+  "book_title": "দর্শন ও প্রগতি",
+  "author": "ড. আনিসুজ্জামান",
+  "publisher": "গোবিন্দ দেব দর্শন গবেষণা কেন্দ্র, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G5,G6,G11",
+  "volume": 8,
+  "price": "১০০",
+  "year": "২০০৪"
+},
+{
+  "_id": "577",
+  "book_title": "ঢাকা বিশ্ববিদ্যালয় ভাষাবিজ্ঞান পত্রিকা",
+  "author": "HAKIM ARIF",
+  "publisher": "রেজিস্ট্রার, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G5,G6",
+  "volume": 3,
+  "price": "১০০",
+  "year": ""
+},
+{
+  "_id": "578",
+  "book_title": "জীবন দিপ্তী",
+  "author": "শ্রী শ্রী ঠাকুর অনুকূল চন্দ্র",
+  "publisher": "",
+  "category": "G6",
+  "volume": 1,
+  "price": "",
+  "year": ""
+},
+{
+  "_id": "579",
+  "book_title": "ধ্বন্যালোক",
+  "author": "বাসুদেব ঘোষ",
+  "publisher": "প্রগ্রেসিভ প্রিন্টার্স লি, ঢাকা",
+  "category": "G6",
+  "volume": 1,
+  "price": "৩০",
+  "year": "১৯৯৯"
+},
+{
+  "_id": "580",
+  "book_title": "জার্নাল অব ড. সিরাজুল হক ইসলামিক রিচার্স সেন্টার",
+  "author": "ড. আ.র.ম আলী হায়দার",
+  "publisher": "ড. সিরাজুল হক ইসলামী গবেষণা কেন্দ্র, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G6",
+  "volume": 1,
+  "price": "",
+  "year": "২০১৮"
+},
+{
+  "_id": "581",
+  "book_title": "মুক্তস্বর",
+  "author": "",
+  "publisher": "বিপ্লবী নারী সংহতি",
+  "category": "G6",
+  "volume": 1,
+  "price": "৪০",
+  "year": "২০০৮"
+},
+{
+  "_id": "582",
+  "book_title": "কলা অনুষদ পত্রিকা(সংখ্যা-৪,৫,৯,১৭)",
+  "author": "অধ্যাপক সদরুল আমিন",
+  "publisher": "কলা অনুষদ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G6,G10",
+  "volume": 6,
+  "price": "১০০",
+  "year": "২০১০"
+},
+{
+  "_id": "583",
+  "book_title": "বাংলাদেশ এশিয়াটিক সোসাইটি পত্রিকা",
+  "author": "দুলাল ভৌমিক",
+  "publisher": "বাংলাদেশ এশিয়াটিক সোসাইটি",
+  "category": "G6,G10",
+  "volume": 3,
+  "price": "২০০",
+  "year": ""
+},
+{
+  "_id": "584",
+  "book_title": "মানববিদ্যা বক্তৃতা",
+  "author": "দুলাল ভৌমিক",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G6",
+  "volume": 1,
+  "price": "",
+  "year": "১৯৮৫"
+},
+{
+  "_id": "585",
+  "book_title": "বাংলাদেশ মুক্তিযুদ্ধ জ্ঞানকোষ(১-১০ খণ্ড)",
+  "author": "হারুন অর রশিদ",
+  "publisher": "বাংলাদেশ এশিয়াটিক সোসাইটি",
+  "category": "G7",
+  "volume": 10,
+  "price": "সেটঃ ১২০০০",
+  "year": "২০২০"
+},
+{
+  "_id": "586",
+  "book_title": "ঢাকা বিশ্ববিদ্যালয়ঃ স্মৃতি নিদর্শন",
+  "author": "আয়শা বেগম",
+  "publisher": "শস্যপর্ব, সিলেট",
+  "category": "G7",
+  "volume": 1,
+  "price": "১৫০০",
+  "year": "২০১১"
+},
+{
+  "_id": "587",
+  "book_title": "আমার দেখা নয়াচীন",
+  "author": "শেখ মুজিবুর রহমান",
+  "publisher": "বাংলা একাডেমী",
+  "category": "G7",
+  "volume": 2,
+  "price": "৪০০",
+  "year": "২০২১"
+},
+{
+  "_id": "588",
+  "book_title": "কারাগারের রোজনামচা",
+  "author": "শেখ মুজিবুর রহমান",
+  "publisher": "বাংলা একাডেমী",
+  "category": "G7",
+  "volume": 2,
+  "price": "৪০০",
+  "year": "২০১৯"
+},
+{
+  "_id": "589",
+  "book_title": "অসমাপ্ত আত্মজীবনী",
+  "author": "শেখ মুজিবুর রহমান",
+  "publisher": "ইউনিভার্সিটি প্রেস লিমিটেড",
+  "category": "G7",
+  "volume": 2,
+  "price": "",
+  "year": "২০১২"
+},
+{
+  "_id": "590",
+  "book_title": "THE HISTORY OF BENGAL (volume-2, Muslim period: 1201-1757)",
+  "author": "SIR JADUNATH SARKAR",
+  "publisher": "UNIVERSITY OF DHAKA",
+  "category": "G7",
+  "volume": 2,
+  "price": "৩৫০",
+  "year": "২০০৬"
+},
+{
+  "_id": "591",
+  "book_title": "বাংলাদেশে স্বামী বিবেকানন্দ এবং তাঁর শিষ্য ও সমকালীন অনুরাগিবৃন্দ",
+  "author": "স্বামী জ্ঞানপ্রকাশানন্দ",
+  "publisher": "রামকৃষ্ণ মঠ , ঢাকা",
+  "category": "G8",
+  "volume": 1,
+  "price": "১৪০",
+  "year": "২০০৫"
+},
+{
+  "_id": "592",
+  "book_title": "চিন্তানায়ক বিবেকানন্দ",
+  "author": "স্বামী লোকেশ্বরানন্দ",
+  "publisher": "রামকৃষ্ণ মিশন ইনস্টিটিউট অব কালচার,কলকাতা",
+  "category": "G8",
+  "volume": 1,
+  "price": "২০০",
+  "year": "১৯৭৭"
+},
+{
+  "_id": "593",
+  "book_title": "HINDU LAW",
+  "author": "B.M. GANDHI",
+  "publisher": "EASTERN BOOK COMPANY , LUCKNOW",
+  "category": "G8",
+  "volume": 1,
+  "price": "Rs. 265",
+  "year": "২০০৮"
+},
+{
+  "_id": "594",
+  "book_title": "ORIGIN AND DEVELOPMENT OF THE SAMKHYA SYSTEM OF THOUGHT",
+  "author": "PULINBIHARI CHAKRAVARTI",
+  "publisher": "ORIENTAL BOOKS REPRINT CORPORATION, DELHI",
+  "category": "G8",
+  "volume": 1,
+  "price": "",
+  "year": "১৯৭৫"
+},
+{
+  "_id": "595",
+  "book_title": "PRONOMINAL USAGE AND APPELLATIVES IN BANGLA",
+  "author": "BEGUM JAHAN ARA",
+  "publisher": "KARIM BOOK CORPORATION , DHAKA",
+  "category": "G8",
+  "volume": 1,
+  "price": "২২৫",
+  "year": "১৯৯১"
+},
+{
+  "_id": "596",
+  "book_title": "HINDU MYTHOLOGY ( VEDIC AND PURANIC )",
+  "author": "W.J. WILKINS",
+  "publisher": "RUPA PUBLICATIONS INDIA PVT. LTD.",
+  "category": "G8",
+  "volume": 1,
+  "price": "",
+  "year": "২০১০"
+},
+{
+  "_id": "597",
+  "book_title": "THE WAY TO NIBBANA",
+  "author": "VEN. NARADA THERA",
+  "publisher": "BUDDHIST MISSIONARY SOCIETY , MALAYSIA",
+  "category": "G8",
+  "volume": 1,
+  "price": "",
+  "year": ""
+},
+{
+  "_id": "598",
+  "book_title": "LITERARY HISTORY OF SANSKRIT BUDHISM",
+  "author": "J.K. NARIMAN",
+  "publisher": "MOTILAL BANARSIDASS PUBLISHERS,DELHI",
+  "category": "G8",
+  "volume": 1,
+  "price": "",
+  "year": "১৯৯২"
+},
+{
+  "_id": "599",
+  "book_title": "MOTHER DURGA AN ICON OF COMMUNITY AND CULTURE",
+  "author": "ABHIJIT DUTTA",
+  "publisher": "READERS SERVICE , KOLKATA",
+  "category": "G8",
+  "volume": 1,
+  "price": "450",
+  "year": "২০০৩"
+},
+{
+  "_id": "600",
+  "book_title": "ফরিদপুরের সমাজ উপভাষা",
+  "author": "ইয়াসমীন আরা লেখা",
+  "publisher": "বাংলা একাডেমি",
+  "category": "G8",
+  "volume": 1,
+  "price": "৩০০",
+  "year": "২০১৪"
 }
+
 ]
