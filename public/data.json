@@ -6620,6 +6620,1050 @@
   "volume": 1,
   "price": "৩০০",
   "year": "২০১৪"
-}
+},
+{
+  "_id": "601",
+  "book_title": "দীপবংস",
+  "author": "ড. সুমঙ্গল বড়ুয়া, বেলু রানী বড়ুয়া",
+  "publisher": "বাংলাদেশ রিসার্স সেন্টার ফর বুড্ডিস্ট স্টাডিজ, ঢাকা",
+  "category": "G8, H1",
+  "volume": 4,
+  "price": "২০০",
+  "year": "২০০৪"
+},
+{
+  "_id": "602",
+  "book_title": "আত্মতত্ত্বোপলব্ধি",
+  "author": "কল্যাণময়ী অনিতাদেবী",
+  "publisher": "চন্দ্রিকা বিশ্বাস",
+  "category": "G8, H10",
+  "volume": 2,
+  "price": "১০০",
+  "year": "২০১৬"
+},
+{
+  "_id": "603",
+  "book_title": "বিতর্ক",
+  "author": "মোহাম্মদ নজরুল ইসলাম",
+  "publisher": "মাতৃভাষা প্রকাশ",
+  "category": "G8",
+  "volume": 1,
+  "isbn": "984-70270-0007-8",
+  "price": "২০০",
+  "year": "২০০৮"
+},
+{
+  "_id": "604",
+  "book_title": "রাজনৈতিক বিশ্লেষণধর্মী আলেখ্য",
+  "author": "সৈয়দ আবুল হোসেন",
+  "category": "G8",
+  "volume": 5,
+  "price": "৫০০"
+},
+{
+  "_id": "605",
+  "book_title": "মুসলিম শাসন ও ভারতবর্ষ (৭১২ খ্রী - ১৯৮৭ খ্রী)",
+  "author": "নিত্যরঞ্জন দাস",
+  "publisher": "তুহিনা প্রকাশনী",
+  "category": "G8",
+  "volume": 1,
+  "price": "২৫০",
+  "year": "২০১০"
+},
+{
+  "_id": "606",
+  "book_title": "অটোবায়োগ্রাফী অব মহাত্মা গান্ধী",
+  "author": "নাজমুল আলম",
+  "publisher": "নালন্দা প্রকাশনী",
+  "category": "G8",
+  "volume": 1,
+  "price": "৪০০",
+  "year": "২০০৮"
+},
+{
+  "_id": "607",
+  "book_title": "THE DHAKA UNIVERSITY STUDIES",
+  "author": "DR. KAISER MD. HAMIDUL HAG",
+  "publisher": "DHAKA UNIVERSITY",
+  "category": "G10",
+  "volume": 10
+},
+{
+  "_id": "608",
+  "book_title": "JOURNAL OF BUSINESS STUDIES",
+  "author": "ABDUL MANNAN CHOUDHURY",
+  "publisher": "DHAKA UNIVERSITY COMMERCE FACULTY",
+  "category": "G10",
+  "volume": 3,
+  "year": "১৯৯৪"
+},
+{
+  "_id": "609",
+  "book_title": "THE ARTS FACULTY JOURNAL",
+  "author": "PROF. SADRUL AMIN",
+  "publisher": "DHAKA UNIVERSITY",
+  "category": "G10",
+  "volume": 1
+},
+{
+  "_id": "610",
+  "book_title": "বাংলাদেশ এশিয়াটিক সোসাইটি পত্রিকা",
+  "author": "মোহাম্মদ মনিরুজ্জামান",
+  "publisher": "এশিয়াটিক সোসাইটি অব বাংলাদেশ",
+  "category": "G10",
+  "volume": 1,
+  "price": "১০০"
+},
+{
+  "_id": "611",
+  "book_title": "বাংলাদেশ এশিয়াটিক সোসাইটি পত্রিকা",
+  "author": "এস এম মাহফুজুর রহমান",
+  "publisher": "এশিয়াটিক সোসাইটি অব বাংলাদেশ",
+  "category": "G10,G11",
+  "volume": 9,
+  "issn": "1609-4409",
+  "price": "২০০"
+},
+{
+  "_id": "612",
+  "book_title": "JOURNAL OF THE ASIATIC SOCIETY OF BANGLADESH HUMANITIES",
+  "author": "PROF. FAKRUL ALAM",
+  "publisher": "ASIATIC SOCIETY OF BANGLADESH",
+  "category": "G10,G11",
+  "volume": 5,
+  "issn": "1015-6836",
+  "price": "400",
+  "year": "2003"
+},
+{
+  "_id": "613",
+  "book_title": "PROSPECTIVES IN SOCIAL SCIENCE -8",
+  "author": "QUAZI ABDUL MANNAN",
+  "publisher": "CENTRE FOR ADVANCED RESEARCH IN SOCIAL SCIENCE , UNIVERSITY OF DHAKA",
+  "category": "G10",
+  "volume": 2
+},
+{
+  "_id": "614",
+  "book_title": "TEACHER'S WORLD JOURNAL OF EDUCATION AND RESEARCH",
+  "author": "DR. SIDDIQUR RAHMAN",
+  "publisher": "INSTITUTE OF EDUCATION AND RESEARCH, UNIVERSITY OF DHAKA",
+  "category": "G10",
+  "volume": 1,
+  "issn": "0040-0521",
+  "year": "2004"
+},
+{
+  "_id": "615",
+  "book_title": "THE ARTS FACULTY JOURNAL",
+  "author": "PROF. MD. AKHTARUZZAMAN",
+  "publisher": "UNIVERSITY OF DHAKA",
+  "category": "G10",
+  "volume": 5,
+  "issn": "1994-8891"
+},
+{
+  "_id": "616",
+  "book_title": "THE DHAKA UNIVERSITY STUDIES (VOL- 45,69, 58,51,60, XXXV)",
+  "author": "UNIVERSITY OF DHAKA",
+  "publisher": "UNIVERSITY OF DHAKA",
+  "category": "G11",
+  "volume": 7
+},
+{
+  "_id": "617",
+  "book_title": "JOURNAL OF THE ASIATIC SOCIETY OF BANGLADESH HUMANITIES (VOL- 37,39,45)",
+  "author": "PROF. FAKRUL ALAM",
+  "publisher": "ASIATIC SOCIETY OF BANGLADESH",
+  "category": "G11",
+  "volume": 5,
+  "issn": "1015-6836"
+},
+{
+  "_id": "618",
+  "book_title": "ঢাকা বিশ্ববিদ্যালয় পরিচিতি",
+  "author": "প্রথম বর্ষ সম্মান ছাত্রছাত্রীদের পরিচিতি কর্মসূচি",
+  "publisher": "ছাত্র শিক্ষক কেন্দ্র, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G11",
+  "volume": 1
+},
+{
+  "_id": "619",
+  "book_title": "জ্ঞানতাপস সমণ পুণ্নানন্দ সামী",
+  "author": "জিনবোধি ভিক্ষু",
+  "publisher": "জাগরণী প্রেস, কলিকাতা-৭",
+  "category": "G11",
+  "volume": 1,
+  "price": "২০"
+},
+{
+  "_id": "620",
+  "book_title": "ভাষা পরিকল্পনার সমাজভাষাতত্ত্ব",
+  "author": "মনসুর মুসা",
+  "publisher": "বাংলা একাডেমি",
+  "category": "G11",
+  "volume": 1,
+  "isbn": "984-7-3335-4",
+  "price": "৫০",
+  "year": "১৯৯৬"
+},
+{
+  "_id": "621",
+  "book_title": "বাংলা সাহিত্য ও চৈতন্যদেব",
+  "author": "প্রিয়ব্রত ব্রহ্মচারী",
+  "publisher": "প্রভু জগদ্বন্ধু মহাপ্রকাশ মঠ, ঢাকা",
+  "category": "G11",
+  "volume": 1,
+  "price": "৩০",
+  "year": "১৯৯৪"
+},
+{
+  "_id": "622",
+  "book_title": "রবীন্দ্রনাথঃ এক অসমন্বিত দ্বন্দ্ব",
+  "author": "মানসী দাশগুপ্ত",
+  "publisher": "সাহিত্যসমবায়",
+  "category": "G11",
+  "volume": 1,
+  "price": "৫০",
+  "year": "১৯৮৭"
+},
+{
+  "_id": "623",
+  "book_title": "ANVIKSA (XXV)",
+  "author": "PROF. MANABENDU BANARJEE",
+  "publisher": "JADAVPUR UNIVERSITY, KOLKATA-7",
+  "category": "G11",
+  "volume": 1,
+  "price": "৫০",
+  "year": "২০০৪"
+},
+{
+  "_id": "624",
+  "book_title": "PANDITARAJA JAGANNATHA ON AESTHETIC PROBLEMS",
+  "author": "DR. ANANTALAL GANGOPADHYAY",
+  "publisher": "SANSKRIT PUSTAK BHANDAR, calcutta-6",
+  "category": "G11",
+  "volume": 1,
+  "price": "১২০"
+},
+{
+  "_id": "625",
+  "book_title": "HSK",
+  "author": "DE GRUYTER",
+  "category": "G11",
+  "volume": 1
+},
+{
+  "_id": "626",
+  "book_title": "ঢাকা বিশ্ববিদ্যালয় সিনেটের বিশেষ অধিবেশনের কার্যবিবরণী-১৯৯৭ (সংখ্যা-৩৬)",
+  "category": "G11"
+},
+{
+  "_id": "627",
+  "book_title": "VANIJYOTH",
+  "author": "DR. R.N. PANDA",
+  "publisher": "P.G. DEPARTMENT OF SANSKRIT, UTKAL UNIVERSITY, BHUBANESWAR",
+  "category": "G11",
+  "volume": 1,
+  "price": "১৫০",
+  "year": "1998"
+},
+{
+  "_id": "628",
+  "book_title": "প্রীতি সম্মিলনী ২০১৫",
+  "author": "ড. রফিকউল্লাহ খান",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয় ক্লাব",
+  "category": "G11",
+  "volume": 1
+},
+{
+  "_id": "629",
+  "book_title": "৫৩ তম সমাবর্তন,২০২২",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G11",
+  "volume": 3
+},
+{
+  "_id": "630",
+  "book_title": "৫০ তম সমাবর্তন,২০১৭",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G11",
+  "volume": 1
+},
+{
+  "_id": "631",
+  "book_title": "শতবর্ষের আলোয় ঢাকা বিশ্ববিদ্যালয়",
+  "author": "বিশ্বজিৎ ঘোষ",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G11",
+  "volume": 1,
+  "price": "৭০০",
+  "year": "২০২১"
+},
+{
+  "_id": "632",
+  "book_title": "চরিতাভিধান",
+  "publisher": "বাংলা একাডেমী",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "633",
+  "book_title": "A HISTORYT OF SANSKRIT LITERATURE",
+  "author": "S.N. DASGUPTA",
+  "publisher": "UNIVERSITY OF CALCUTTA",
+  "category": "G12",
+  "volume": 1,
+  "price": "৬০"
+},
+{
+  "_id": "634",
+  "book_title": "SEKASUBHODAYA of Halayudha Misra",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "635",
+  "book_title": "THE CELESTIAL LIGHT",
+  "author": "SABIR AHMED CHOWDHURY",
+  "publisher": "PIGEON PUBLICATIONS",
+  "category": "G12",
+  "volume": 1,
+  "price": "২০০",
+  "year": "১৯৯১"
+},
+{
+  "_id": "636",
+  "book_title": "SEKASUBHODAYA of Halayudha Misra",
+  "author": "SUKUMAR SEN",
+  "publisher": "THE ASIATIC SOCIETY, CALCUTTA",
+  "category": "G12",
+  "volume": 1,
+  "price": "Rs.35",
+  "year": "১৯৬৩"
+},
+{
+  "_id": "637",
+  "book_title": "KALIDASA AN ESTIMATE OF HIS LIBRARY MERIT",
+  "author": "DR. S.N. GHOSAL",
+  "publisher": "WORLD PRESS, CALCUTTA",
+  "category": "G12",
+  "volume": 1,
+  "year": "1971"
+},
+{
+  "_id": "638",
+  "book_title": "KALIDASA AS A DRAMATIST -A STUDY",
+  "author": "DR. PARESH CHANDRA MANDAL",
+  "publisher": "UNIVERSITY OF DHAKA",
+  "category": "G12, I5",
+  "volume": 3,
+  "price": "125",
+  "year": "1986"
+},
+{
+  "_id": "639",
+  "book_title": "AVAYAVACINTAMANI OF GANGESA",
+  "author": "SRI SUBUDDHI CHARAN GOSWAMI",
+  "publisher": "SANSKRIT PUSTAK BHANDAR, calcutta-6",
+  "category": "G12",
+  "volume": 1,
+  "price": "100",
+  "year": "1991"
+},
+{
+  "_id": "640",
+  "book_title": "COLOR OF ROSE",
+  "author": "OMAR KHALED RUMI",
+  "publisher": "MUKTOCHINTA PROKASHONA",
+  "category": "G12",
+  "volume": 1,
+  "price": "200",
+  "year": "2009"
+},
+{
+  "_id": "641",
+  "book_title": "MRCCHAKATIKA OR THE TOY CART OF KING SUDRAKA",
+  "author": "DR. SATYA RANJAN BANERJEE",
+  "publisher": "SANSKRIT BOOK DEPOT LTD",
+  "category": "G12",
+  "volume": 1,
+  "price": "20",
+  "year": "1984"
+},
+{
+  "_id": "642",
+  "book_title": "BASIC ENGLISH LANGUAGE GRAMMAR COMPOSITION COMPREHENSION",
+  "author": "AHSANUL HAQUE",
+  "publisher": "UNIVERSITY OF DHAKA",
+  "category": "G12",
+  "volume": 1,
+  "price": "50",
+  "year": "1987"
+},
+{
+  "_id": "643",
+  "book_title": "COMMUNAL PERSECUTION AND REPRESSION IN BANGLADESH SOME FACTS",
+  "publisher": "BANGLADESH HINDU BOUDDHA CHRISTIAN OIKYA PARISHAD",
+  "category": "G12",
+  "volume": 1,
+  "price": "125",
+  "year": "1993"
+},
+{
+  "_id": "644",
+  "book_title": "POVERTY AND TECHNOLOGY",
+  "author": "DR. M. SHAMSER ALI",
+  "publisher": "PROFESSORS WORLD PEACE ACADEMY OF BANGLADESH",
+  "category": "G12",
+  "volume": 1,
+  "isbn": "0-943852-10-2"
+},
+{
+  "_id": "645",
+  "book_title": "BHAGAVAD GITA AS IT IS",
+  "author": "A.C. BHAKTAVEDANTA SWAMI PRABHUPADA",
+  "publisher": "THE BHAKTIVEDANTA BOOK TRUST",
+  "category": "G12, H4",
+  "volume": 2,
+  "isbn": "0-912776-80-3",
+  "year": "1968"
+},
+{
+  "_id": "646",
+  "book_title": "COMPARATIVE RELIGION",
+  "author": "KEDAR NATH TIWARI",
+  "publisher": "MOTILAL BANARSIDASS PUBLISHERS, DELHI",
+  "category": "G12",
+  "volume": 1,
+  "isbn": ["81-208-0293-4", "81-208-0294-2"],
+  "year": "1997"
+},
+{
+  "_id": "647",
+  "book_title": "বাংলাদেশ বৌদ্ধধর্মঃ অতীত ও বর্তমান (বাংলাদেশের বৌদ্ধ ইতিহাস পরিক্রমা)",
+  "author": "গবেষক-জগন্নাথ বড়ুয়া",
+  "publisher": "সংস্কৃত ও পালি বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "648",
+  "book_title": "সংস্কৃত প্রবন্ধ সাহিত্য (এম ফিল ডিগ্রীর জন্য উপস্থাপিত অভিসন্দর্ভ)",
+  "author": "গবেষক-নারায়ণ চক্রবর্তী",
+  "publisher": "সংস্কৃত ও পালি বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "649",
+  "book_title": "সংস্কৃত নাট্যকলায় রূপসজ্জাঃ একটি সমীক্ষা",
+  "author": "গবেষক- সুনীতি হালদার",
+  "publisher": "সংস্কৃত ও পালি বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "650",
+  "book_title": "বিদগ্ধমাধব একটি সমীক্ষা",
+  "author": "গবেষক- ময়না তালুকদার",
+  "publisher": "সংস্কৃত ও পালি বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G12, I2",
+  "volume": 2
+},
 
+{
+  "_id": "651",
+  "book_title": "নৈষধচরিত মহাকাব্যে শৃঙ্গার রস",
+  "author": "গবেষক- কালিদাস ভক্ত",
+  "publisher": "সংস্কৃত বিভাগ, ঢাকা বিশ্ববিদ্যালয়",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "652",
+  "book_title": "প্রতিবাক-২০১৫",
+  "publisher": "ঢাকা বিশ্ববিদ্যালয় ডিবেটিং সোসাইটি",
+  "category": "G12",
+  "volume": 1
+},
+{
+  "_id": "653",
+  "book_title": "হিন্দুধর্ম ও মূল্যবোধ",
+  "author": "শ্রী করুণা কান্ত নাথ, সুখেন্দু বিশ্বাস মজুমদার",
+  "category": "H1, H3,H9",
+  "volume": 3,
+  "isbn": "984-32-2087-0",
+  "price": "১৫০",
+  "year": "২০১৫"
+},
+{
+  "_id": "654",
+  "book_title": "BUDDHIST COUNCILS AND DEVELOPMENT OF BUDDHISM",
+  "author": "DR SUMANGAL BARUA",
+  "publisher": "ATISHA MEMORIAL PUBLISHING SOCIETY, CALCUTTA",
+  "category": "H1,H10",
+  "volume": 6,
+  "year": "1997"
+},
+{
+  "_id": "655",
+  "book_title": "বৌদ্ধ রঞ্জিকা অর্থাৎ বৌদ্ধদিগের মূল ধর্ম-গ্রন্থ",
+  "author": "বিপ্রদাশ বড়ুয়া, ড. দিলীপকুমার বড়ুয়া",
+  "publisher": "নবযুগ প্রকাশনী",
+  "category": "H1",
+  "volume": 2,
+  "price": "১৮০",
+  "year": "২০০৫"
+},
+{
+  "_id": "656",
+  "book_title": "বুদ্ধ ও বৌদ্ধধর্ম এবং প্রাচীন বৌদ্ধ সমাজ",
+  "author": "শ্রী শান্তিকুসুম দাশ গুপ্ত",
+  "publisher": "মহাবোধি বুক এজেন্সী",
+  "category": "H1",
+  "volume": 1,
+  "isbn": "81-87032-14-6",
+  "price": "১০০",
+  "year": "1998"
+},
+{
+  "_id": "657",
+  "book_title": "সাহিত্য প্রাচ্য ও পাশ্চাত্য",
+  "author": "বিশ্বনাথ চট্টোপাধ্যায়",
+  "publisher": "সংস্কৃত পুস্তক ভাণ্ডার",
+  "category": "H1",
+  "volume": 1,
+  "price": "১০০",
+  "year": "২০০৪"
+},
+{
+  "_id": "658",
+  "book_title": "বৌদ্ধধর্ম ও রবীন্দ্রনাথ",
+  "author": "ডঃ আশা দাশ",
+  "publisher": "মহাবোধি বুক এজেন্সী",
+  "category": "H1",
+  "volume": 1,
+  "isbn": "81-87032-22-7",
+  "price": "১০০",
+  "year": "বাং-১৪০৮"
+},
+{
+  "_id": "659",
+  "book_title": "মিলিন্দপঞ্হ",
+  "author": "সাধনকমল চৌধুরী",
+  "publisher": "করুণা প্রকাশনী",
+  "category": "H1",
+  "volume": 1,
+  "price": "১২৫",
+  "year": "২০০১"
+},
+{
+  "_id": "660",
+  "book_title": "মহাবংশ",
+  "author": "সাধনকমল চৌধুরী",
+  "publisher": "করুণা প্রকাশনী",
+  "category": "H1",
+  "volume": 1,
+  "price": "১২৫",
+  "year": "বাং-১৪১২"
+},
+
+{
+  "_id": "661",
+  "book_title": "থেরীগাথা",
+  "author": "বেলু রানী বড়ুয়া",
+  "publisher": "বাংলাদেশ রিসার্স সেন্টার ফর বুড্ডিস্ট স্টাডিজ, ঢাকা",
+  "category": "H1, H7",
+  "volume": 5,
+  "price": "২০০",
+  "year": "২০০৪"
+},
+{
+  "_id": "662",
+  "book_title": "সূর্যতপা",
+  "author": "শ্রীকুমার আচার্য্য",
+  "publisher": "পুরুষোত্তম মঠ প্রকাশনা",
+  "category": "H2",
+  "volume": 1,
+  "price": "২৫০",
+  "year": "২০১৩"
+},
+{
+  "_id": "663",
+  "book_title": "নিছক আনন্দ নয়",
+  "author": "নিরঞ্জন অধিকারী",
+  "publisher": "কাকলী প্রকাশনী, ঢাকা",
+  "category": "H2",
+  "volume": 3,
+  "price": "৩৫",
+  "year": "১৯৯২"
+},
+{
+  "_id": "664",
+  "book_title": "ভারত সন্ধানে বঙ্গ",
+  "author": "হীরেণ সান্যাল",
+  "publisher": "দেজ পাবলিশিং, কলিকাতা",
+  "category": "H2",
+  "volume": 1,
+  "isbn": "81-7079-475-7",
+  "price": "৩০",
+  "year": "১৯৯৪"
+},
+{
+  "_id": "665",
+  "book_title": "সংস্কৃত শিক্ষা",
+  "author": "ড. পরেশ চন্দ্র মণ্ডল, ড.দিলীপ কুমার ভট্টাচার্য",
+  "publisher": "গ্লোব লাইব্রেরী",
+  "category": "H2",
+  "volume": 11,
+  "price": "২০",
+  "year": "১৯৯৮"
+},
+{
+  "_id": "666",
+  "book_title": "হেমন্ত",
+  "author": "শ্রীকুমার আচার্য্য",
+  "publisher": "কুমার বিজয়াব্রত ব্রহ্মচারী বিধান",
+  "category": "H2",
+  "volume": 1,
+  "price": "১০০",
+  "year": "২০১৩"
+},
+{
+  "_id": "667",
+  "book_title": "বিস্মৃত স্মৃতিচারণ",
+  "author": "মোঃ হায়াত আলী",
+  "publisher": "ময়ূখ প্রকাশনী",
+  "category": "H2",
+  "volume": 1,
+  "year": "বাং-১৪০৩"
+},
+{
+  "_id": "668",
+  "book_title": "সংস্কৃত পরিচিতি",
+  "author": "ড. পরেশ চন্দ্র মণ্ডল, ড.দিলীপ কুমার ভট্টাচার্য",
+  "publisher": "গ্লোব লাইব্রেরী",
+  "category": "H2",
+  "volume": 1,
+  "price": "২০",
+  "year": "১৯৯৮"
+},
+{
+  "_id": "669",
+  "book_title": "সংস্কৃত দীপিকা",
+  "author": "ড. পরেশ চন্দ্র মণ্ডল, ড.দিলীপ কুমার ভট্টাচার্য",
+  "publisher": "গ্লোব লাইব্রেরী",
+  "category": "H2, H4, I2",
+  "volume": 5,
+  "price": "২০",
+  "year": "১৯৯৮"
+},
+{
+  "_id": "670",
+  "book_title": "সংস্কৃত সাহিত্যের ইতিহাস",
+  "author": "শ্রী সত্যনারায়ণ চক্রবর্তী",
+  "publisher": "বিশ্বকোষ পরিষদ",
+  "category": "H2",
+  "volume": 1,
+  "isbn": "81-86210-01-6",
+  "price": "৭",
+  "year": "১৯৯৪"
+},
+{
+  "_id": "671",
+  "book_title": "সংস্কৃত মঞ্জুষা (৪র্থ পত্র)",
+  "author": "ডঃ নিখিল রঞ্জন বিশ্বাস",
+  "publisher": "বেদবাণী প্রকাশনী",
+  "category": "H2",
+  "volume": 10,
+  "price": "৪০",
+  "year": "২০০৪"
+},
+{
+  "_id": "672",
+  "book_title": "শ্রী শ্রী গুরুচাঁদ চরিত",
+  "author": "প্রণেতা শ্রী মহানন্দ হালদার, শ্রী বিষ্ণুপদ বাগচী",
+  "publisher": "শ্রী অতীন্দ্রনাথ হালদার",
+  "category": "H2",
+  "volume": 1,
+  "price": "৪৫০",
+  "year": "২০১৩"
+},
+{
+  "_id": "673",
+  "book_title": "কালপুরুষ-২,৩(স্বাধীন বাংলা, উপনিবেশপূর্ব বাংলা)",
+  "author": "দেওয়ান হানিফ মাহমুদ",
+  "publisher": "বণিকবার্তা প্রকাশনী",
+  "category": "H2",
+  "volume": 2,
+  "isbn": "978-984-34-1610-0",
+  "year": "২০১৬"
+},
+{
+  "_id": "674",
+  "book_title": "গ্রামোন্নয়নে রবীন্দ্রনাথ",
+  "author": "হাসনাত আব্দুল হাই",
+  "publisher": "বাংলা একাডেমি",
+  "category": "H2",
+  "volume": 1,
+  "isbn": "984-07-5035-6",
+  "price": "১০০",
+  "year": "২০১২"
+},
+{
+  "_id": "675",
+  "book_title": "রবীন্দ্রনাথ ও বিজ্ঞান",
+  "author": "সুব্রত বড়ুয়া",
+  "publisher": "বাংলা একাডেমি",
+  "category": "H2",
+  "volume": 1,
+  "isbn": "984-07-4949-8",
+  "price": "১৬০",
+  "year": "২০১১"
+},
+{
+  "_id": "676",
+  "book_title": "প্রাচ্যের রহস্য নগরী",
+  "author": "এফ. বি. ব্রাডলী বার্ট",
+  "publisher": "বাংলা একাডেমি",
+  "category": "H2",
+  "volume": 1,
+  "isbn": "984-07-5363-0",
+  "price": "১৮৫",
+  "year": "২০১৫"
+},
+{
+  "_id": "677",
+  "book_title": "জাতক (খণ্ড- ৩,৪,৫,৬)",
+  "author": "শ্রী ঈশানচন্দ্র ঘোষ",
+  "publisher": "করুণা প্রকাশনী",
+  "category": "H2",
+  "volume": 1,
+  "price": "৮০",
+  "year": "বাং-১৩৯১"
+},
+{
+  "_id": "678",
+  "book_title": "পরলোকবিচিত্রা (খণ্ড-১,২)",
+  "author": "সৌরীন্দ্রমোহন মুখোপাধ্যায়",
+  "publisher": "পূর্ণ প্রকাশন, কলিকাতা-৯",
+  "category": "H2",
+  "volume": 2,
+  "price": "৩০",
+  "year": "বাং-১৩৯১"
+},
+{
+  "_id": "679",
+  "book_title": "মিলনের ছোটগল্প (১ম খণ্ড)",
+  "author": "অসীম বিশ্বাস মিলন",
+  "publisher": "বিভাস প্রকাশনী",
+  "category": "H3,H10",
+  "volume": 4,
+  "isbn": "984-70343-0744-3",
+  "price": "২০০",
+  "year": "২০১৭"
+},
+{
+  "_id": "680",
+  "book_title": "অস্তগামী",
+  "author": "অসীম বিশ্বাস মিলন",
+  "publisher": "বিভাস প্রকাশনী",
+  "category": "H3",
+  "volume": 2,
+  "isbn": "984-70343-0620-0",
+  "price": "১৫০",
+  "year": "২০১৬"
+},
+{
+  "_id": "681",
+  "book_title": "কবীর চৌধুরী শিল্পসাহিত্যে ক্লান্তিহীন পরিব্রাজক",
+  "author": "মোহাম্মদ আব্দুল হাই",
+  "publisher": "বিদ্যাসাগর সোসাইটি",
+  "category": "H3",
+  "volume": 1,
+  "price": "৩৫০",
+  "year": "২০০৬"
+},
+{
+  "_id": "682",
+  "book_title": "অনুবাদে মেঘদূত সার্ধশতবর্ষ -১ম খণ্ড",
+  "author": "ড. নরেশচন্দ্র জানা",
+  "publisher": "সাহিত্যলোক, কলকাতা",
+  "category": "H3",
+  "volume": 1,
+  "price": "১০০",
+  "year": "১৯৯১"
+},
+{
+  "_id": "683",
+  "book_title": "শ্রী শ্রী চৈতন্যচরিতামৃত প্রবন্ধমালা",
+  "author": "মনোজ বিকাশ দেবরায়",
+  "publisher": "শ্রী শ্রী প্রভু জগদ্বন্দু ধাম, সিলেট",
+  "category": "H3",
+  "volume": 1,
+  "isbn": "02-978-984-33-3311-8",
+  "price": "২৫০",
+  "year": "২০১৫"
+},
+{
+  "_id": "684",
+  "book_title": "আবেদন",
+  "author": "খগেন বালাপোদ্দার",
+  "publisher": "মনিমোহন মনি",
+  "category": "H3",
+  "volume": 1,
+  "price": "৬৫",
+  "year": "২০০৪"
+},
+{
+  "_id": "685",
+  "book_title": "বাংলা সাহিত্যে সামন্ততান্ত্রিক চিন্তাধারা",
+  "author": "গীতা মুখোপাধ্যায়",
+  "publisher": "কে পি বাগচী এন্ড কোম্পানী, কলিকাতা",
+  "category": "H3",
+  "volume": 1,
+  "year": "১৯৮১"
+},
+{
+  "_id": "686",
+  "book_title": "কোম্পনী আইন",
+  "author": "মোয়াজ্জম হোসেইন",
+  "publisher": "ফজিলত হোসেইন চৌধুরী স্মৃতি সংস্থা",
+  "category": "H3",
+  "volume": 1,
+  "year": "১৯৮৬"
+},
+{
+  "_id": "687",
+  "book_title": "মাক্সিম গোর্কীর মা",
+  "category": "H3"
+},
+{
+  "_id": "688",
+  "book_title": "সাহিত্যপাঠের ভূমিকা",
+  "author": "শ্রী সুবোধচন্দ্র সেনগুপ্ত",
+  "publisher": "বিশ্বভারতী গ্রন্থবিভাগ, কলকাতা",
+  "category": "H3",
+  "volume": 1,
+  "year": "বাং-১৩৯৬"
+},
+{
+  "_id": "689",
+  "book_title": "মানিক বন্দ্যোপাধ্যায়: জীবনদৃষ্টি ও শিল্পরীতি",
+  "author": "গোপিকানাথ রায়চৌধুরী",
+  "publisher": "দেজ পাবলিশিং, কলিকাতা",
+  "category": "H3",
+  "volume": 1,
+  "isbn": "81-7612-198-3",
+  "price": "৮০",
+  "year": "২০০৮"
+},
+{
+  "_id": "690",
+  "book_title": "বর্ণ বিজ্ঞান",
+  "author": "শ্রী প্রভাতরঞ্জন সরকার",
+  "publisher": "আনন্দমার্গ প্রচারক সংঘ, কলকাতা",
+  "category": "H3,I1",
+  "volume": 2,
+  "price": "২০",
+  "year": "১৯৮৪"
+}
+{
+  "_id": "691",
+  "book_title": "নমঃ শিবায় শান্তায়",
+  "author": "শ্রী শ্রী আনন্দমূর্ত্তি",
+  "publisher": "আনন্দমার্গ প্রচারক সংঘ, কলকাতা",
+  "category": "H3",
+  "volume": 1,
+  "isbn": "81-7252-266-5",
+  "price": "৬০",
+  "year": "২০০৮"
+},
+{
+  "_id": "692",
+  "book_title": "শ্রীগুরু লীলামৃত",
+  "author": "কৃষ্ণকুমার পাল চৌধুরী",
+  "publisher": "গুরু নিকেতন, সিলেট",
+  "category": "H3",
+  "volume": 1,
+  "price": "৪৫",
+  "year": "বাং-১৩৯৭"
+},
+{
+  "_id": "693",
+  "book_title": "বাংলাদেশের হৃদয় হতে",
+  "author": "সনজীদা খাতুন",
+  "publisher": "ছায়ানটের সাহিত্য সাংস্কৃতিক ত্রৈমাসিক",
+  "category": "H3",
+  "volume": 1,
+  "price": "৫০",
+  "year": "২০১০"
+},
+{
+  "_id": "694",
+  "book_title": "শ্যামলিমা",
+  "author": "পিন্টু রঞ্জন অর্ক",
+  "publisher": "মক্কা প্রিন্টার্স এন্ড পাবলিসার্স",
+  "category": "H3",
+  "volume": 1,
+  "year": "২০১৩"
+},
+{
+  "_id": "695",
+  "book_title": "কালিদাস রচনাসমগ্র",
+  "author": "কান্তি পি. দত্ত",
+  "publisher": "আদিত্য প্রকাশালয়",
+  "category": "H3",
+  "volume": 1,
+  "price": "১৮",
+  "year": "১৯৮৭"
+},
+{
+  "_id": "696",
+  "book_title": "অক্ষরমালা",
+  "author": "মধুসূদন বসু",
+  "publisher": "শ্রী রামকৃষ্ণ ট্রাস্ট",
+  "category": "H3",
+  "volume": 1
+},
+{
+  "_id": "697",
+  "book_title": "পথরেখা",
+  "author": "নূহ-উল-আলম লেনিন",
+  "category": "H3",
+  "volume": 1,
+  "price": "২০",
+  "year": "বাং-১৪০৮"
+},
+{
+  "_id": "698",
+  "book_title": "ORGAN OF THE SANSKRIT SAHITYA PARISHAT",
+  "publisher": "SANSKRIT SAHITYA PARISAD, KOLKATA",
+  "category": "H3",
+  "volume": 1,
+  "price": "50",
+  "year": "২০০৯"
+},
+{
+  "_id": "699",
+  "book_title": "বাংলা পাণ্ডুলিপি পাঠসমীক্ষা",
+  "author": "মুহাম্মদ শাহজাহান মিয়া",
+  "publisher": "বাংলা একাডেমি",
+  "category": "H3",
+  "volume": 1,
+  "isbn": "984-07-3112-2",
+  "price": "৮৮",
+  "year": "১৯৯৪"
+},
+{
+  "_id": "700",
+  "book_title": "জীবনের ঘাটে ঘাটে",
+  "author": "মোহাম্মদ ফেরদা্উস খান",
+  "publisher": "আহছানিয়া বুকস",
+  "category": "H3",
+  "volume": 1,
+  "isbn": "984-31-1356-X",
+  "price": "২৫০",
+  "year": "২০০২"
+},
+
+  {
+    "_id": "701",
+    "book_title": "পন্ডিত শ্রীজীব ন্যায়তীর্থের সারস্বত সাধনা",
+    "author": "ঋতা চট্টোপাধ্যায়",
+    "publisher": "সংস্কৃত পুস্তক ভাণ্ডার",
+    "category": "H3",
+    "volume": 1,
+    "price": "২৫",
+    "year": "বাং-১৪১১"
+  },
+  {
+    "_id": "702",
+    "book_title": "বাংলা নাট্যাভিনয়ের ইতিহাস",
+    "author": "ডঃ অজিত কুমার ঘোষ",
+    "publisher": "পশ্চিমবঙ্গ রাজ্য পুস্তকপর্ষৎ",
+    "category": "H3",
+    "volume": 1,
+    "year": "১৯৮৫"
+  },
+  {
+    "_id": "703",
+    "book_title": "কুরুক্ষেত্রে দেবশিবির",
+    "author": "বীরেন্দ্র মিত্র",
+    "publisher": "নাথ ব্রাদার্স, কলকাতা",
+    "category": "H3, I7",
+    "volume": 2,
+    "price": "৩৫",
+    "year": "১৯৮৫"
+  },
+  {
+    "_id": "704",
+    "book_title": "শ্রী শ্রী বন্ধুলীলা তরঙ্গিণী (খণ্ড-৪,৭, ১০)",
+    "author": "দাস মহানামব্রতব্রহ্মচারী",
+    "publisher": "মহনাম কালচার‌্যাল এণ্ড ওয়েলফেয়ার ট্রাস্ট",
+    "category": "H4",
+    "volume": 3,
+    "price": "১৬",
+    "year": "বাং-১৩৯৪"
+  },
+  {
+    "_id": "705",
+    "book_title": "চন্দ্রপাত",
+    "author": "প্রভু জগদ্বন্ধু",
+    "publisher": "মহানামব্রত পাবলিকেশন",
+    "category": "H4",
+    "volume": 1,
+    "price": "৫",
+    "year": "বাং-১৩৯৭"
+  },
+  {
+    "_id": "706",
+    "book_title": "নাম মাধুরী তৎসহ কীর্ত্তন মাধুরী",
+    "author": "শ্রী বঙ্কিম চন্দ্র সেন",
+    "publisher": "শ্রী রাইমোহন আচার্য্য",
+    "category": "H4",
+    "volume": 1,
+    "price": "৮",
+    "year": "বাং-১৩৭৬"
+  },
+  {
+    "_id": "707",
+    "book_title": "তর্কসংগ্রহসার",
+    "author": "বিপদভঞ্জন পাল",
+    "publisher": "সংস্কৃত পুস্তক ভাণ্ডার",
+    "category": "H4",
+    "volume": 1,
+    "price": "৩৫",
+    "year": "১৯৯৫"
+  },
+  {
+    "_id": "708",
+    "book_title": "RELIGION AND DHARMA",
+    "author": "SISTER NIVEDITA",
+    "publisher": "ADVAITA ASHRAMA, CALCUTTA-7",
+    "category": "H4",
+    "volume": 1,
+    "year": "1989"
+  },
+  {
+    "_id": "709",
+    "book_title": "পণ্ডিত শীলানন্দ ব্রহ্মচারী",
+    "author": "জিনবোধি ভিক্ষু",
+    "publisher": "আন্তর্জাতিক সাধনা কেন্দ্র",
+    "category": "H4",
+    "volume": 1,
+    "price": "১২",
+    "year": "১৯৯৫"
+  },
+  {
+    "_id": "710",
+    "book_title": "ব্রহ্মগায়ত্রী",
+    "author": "মহনামব্রত ব্রহ্মচারী",
+    "publisher": "মহনাম কালচার‌্যাল এণ্ড ওয়েলফেয়ার ট্রাস্ট",
+    "category": "H4",
+    "volume": 1,
+    "price": "৩",
+    "year": "বাং-১৩৯৪"
+  }
 ]
